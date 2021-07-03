@@ -14,4 +14,3 @@ for i in range(0, len(output)):
 
 #plot.plot_xy(__extracted_dataset[0][0], __extracted_dataset[0][1])
 #print(snr.signaltonoise(__extracted_dataset[0][1]))
-
